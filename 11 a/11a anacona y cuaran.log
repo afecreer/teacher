@@ -1,0 +1,16 @@
+let ojos=2;
+undefined
+let perro=4;
+undefined
+let pez=0;
+undefined
+let araña=8;
+undefined
+let humano=2;
+undefined
+let mariposa=3;
+undefined
+typeof ojos;
+'number'
+let ojos=2;
+undefined

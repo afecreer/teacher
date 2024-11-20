@@ -1,0 +1,11 @@
+let profesión="enfermera";
+let materia="filosofia";
+let antivalor="pereza";
+let edad=16;
+let nombre="paola astudillo";
+
+let arregloexito["profesión ","dinero","casas"]
+carro, estudio de doctorado, viajar. 
+console.log(profesión);
+console.log(materia);
+console.log(arregloexito.length);

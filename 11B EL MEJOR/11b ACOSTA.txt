@@ -1,0 +1,24 @@
+let cajas= 14;
+let asientos= 33; 
+let computadores= 82;
+let lapiceros= 2;
+let celulares= 1;
+
+
+
+
+
+let cajas= "cartón";
+let lapiceros " =plásticos" ;
+let computadores= "lentos" ;
+let blusas = " blancas" ;
+let bolsos = "pequeños" ;
+
+
+
+typeof cajas; 
+console.log(cajas)
+
+typeof asientosd; 
+console.log(asientosd);
+ 

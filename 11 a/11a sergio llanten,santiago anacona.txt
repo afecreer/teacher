@@ -1,0 +1,18 @@
+let numeroaleatorio = Math.random(); //sirve para asignar numero aleatorio
+console.log(numeroaleatorio); //imprimir el valor de la variable numeroaleatorio
+let numeroaleatorio2 = numeroaleatorio*10; //multiplica por 10 el valor de numero aleatorio
+console.log(numeroaleatorio2);//imprimir el valor de la variable numeroaleatorio
+let numeroaleatorio3 = Math.floor(numeroaleatorio2);//deja la parte entera de la variable numeroaleatorio2
+console.log(numeroaleatorio3);//imprimir el valor de la variable numeroaleatorio
+
+
+function adivinarNumero(numero) //crea una funcion llamada adivinarNumero
+{ let numeroSecreto = Math.floor(Math.random() * 10) + 1;
+if (numero === numeroSecreto)//condición que compara las variables numero y numeroSecreto
+{ console.log("¡Felicidades! Adivinaste el número.");//Si son iguales 
+}
+else
+{ console.log("Lo siento, el número era " + numeroSecreto + ".");//si son diferentes
+}
+} adivinarNumero(5);
+

@@ -1,0 +1,13 @@
+<HTHL>
+    <HEAD>
+        <TITLE>  PROYECTO DE VIDA y emprendimiento </TITLE>
+</HEAD>
+<BODY>
+    <Div CLASS="VIDEO" background-color="red">
+<h1>enseñar programacion</h1>
+      <Video CONTROLS AUTOPLAY Width="320" Heigth="240">
+<SOURCE src="10c gabriela y edixon.mp4"Type="VIDEO/MP4">
+</video>
+ </Div>
+</BODY>
+<HTML>

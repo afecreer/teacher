@@ -1,0 +1,24 @@
+let profesión="Futbolista";
+let materia="Artística";
+let antivalor="pereza";
+let edad=15;
+let nombre="Jonnathan Agredo";
+
+let arregloexito=["futbol","dinero","casas"]
+console.log(profesión);
+console.log(materia);
+console.log(arregloexito.length);
+let arreglodistractores=["celular","internet"]
+console.log(arreglodistractores.length);
+function aprobación(nota)
+{
+if(nota>3)
+{
+console.log("tiene una gran opción de ser "+profesión +" y conseguir"+arregloexito)
+}
+else
+{
+console.log("si sigue siendo "+antivalor +tal vez sea por "+arreglodistractores);
+}
+}
+aprobación(1.5)
